@@ -1,0 +1,9 @@
+c:\DemoApp\DBApp\DBApp\bin\Debug\DBApp.exe.config
+c:\DemoApp\DBApp\DBApp\bin\Debug\DBApp.exe
+c:\DemoApp\DBApp\DBApp\bin\Debug\DBApp.pdb
+c:\DemoApp\DBApp\DBApp\obj\Debug\DBApp.csprojResolveAssemblyReference.cache
+c:\DemoApp\DBApp\DBApp\obj\Debug\DBApp.Form1.resources
+c:\DemoApp\DBApp\DBApp\obj\Debug\DBApp.Properties.Resources.resources
+c:\DemoApp\DBApp\DBApp\obj\Debug\DBApp.csproj.GenerateResource.Cache
+c:\DemoApp\DBApp\DBApp\obj\Debug\DBApp.exe
+c:\DemoApp\DBApp\DBApp\obj\Debug\DBApp.pdb
